@@ -2,7 +2,7 @@
 Personal portfolio website for Jorenti Borja, BSIT student and aspiring software developer.
 
 ## 🔗 Live Site
-https://JorenBorja.github.io
+https://Kordan-23.github.io
 
 ## 🛠️ Built With
 HTML · CSS · JavaScript
